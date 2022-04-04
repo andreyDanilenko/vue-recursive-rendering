@@ -99,6 +99,7 @@ export default {
   display: flex;
   flex-direction: column;
   font-size: 14px;
+  margin-left: 10px;
 }
 
 .table__head {
